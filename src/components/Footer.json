@@ -1,0 +1,13 @@
+{
+  "name": "Еко-парк «Зелена Діброва»",
+  "address": "с. Лісове, вул. Дубова, 1",
+  "phone": "+38 (050) 123-45-67",
+  "email": "hello@zelena-dibrova.ua",
+  "hours": "Щодня 9:00 – 20:00",
+  "socials": [
+    { "id": 1, "name": "Instagram", "url": "https://instagram.com" },
+    { "id": 2, "name": "Facebook", "url": "https://facebook.com" },
+    { "id": 3, "name": "Telegram", "url": "https://t.me" },
+    { "id": 4, "name": "YouTube", "url": "https://youtube.com" }
+  ]
+}

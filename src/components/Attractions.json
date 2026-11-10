@@ -1,0 +1,14 @@
+[
+  {"id": 1, "name": "Стежка «Дубовий гай»", "description": "Легка прогулянка 2,5 км серед столітніх дубів", "price": 80, "type": "Маршрути", "emoji": "🌳", "tone": "forest", "image": "images/oak.jpg"},
+  {"id": 2, "name": "Маршрут «Лісове озеро»", "description": "5 км до озера з зупинками для фото", "price": 120, "type": "Маршрути", "emoji": "🏞️", "tone": "forest", "image": "images/lake.jpg"},
+  {"id": 3, "name": "Нічна екскурсія", "description": "Слухаємо сов та розглядаємо зорі з гідом", "price": 250, "type": "Маршрути", "emoji": "🦉", "tone": "forest", "image": "images/night.jpg"},
+  {"id": 4, "name": "Велопрогулянка", "description": "Оренда велосипеда на 2 години та карта трас", "price": 150, "type": "Активності", "emoji": "🚴", "tone": "sun", "image": "images/bike.jpg"},
+  {"id": 5, "name": "Канатний парк", "description": "Шість трас різної складності для дітей і дорослих", "price": 300, "type": "Активності", "emoji": "🧗", "tone": "sun", "image": "images/climbing.jpg"},
+  {"id": 6, "name": "Каное на озері", "description": "Година тиші на воді разом з інструктором", "price": 220, "type": "Активності", "emoji": "🛶", "tone": "sun", "image": "images/canoe.jpg"},
+  {"id": 7, "name": "Годівнички для птахів", "description": "Майстер-клас: робимо будиночок для пташок", "price": 100, "type": "Активності", "emoji": "🐦", "tone": "sun", "image": "images/birdhouse.jpg"},
+  {"id": 8, "name": "Пікнік-зона", "description": "Столи, мангали та дрова на кожну компанію", "price": 180, "type": "Відпочинок", "emoji": "🧺", "tone": "water", "image": "images/picnic.jpg"},
+  {"id": 9, "name": "Чайна церемонія", "description": "Чай з лісових трав і домашнє печиво", "price": 130, "type": "Відпочинок", "emoji": "🍵", "tone": "water", "image": "images/tea.jpg"},
+  {"id": 10, "name": "Глемпінг-намет", "description": "Затишний намет з ліжком на ніч (ціна за добу)", "price": 1200, "type": "Відпочинок", "emoji": "⛺", "tone": "water", "image": "images/tent.jpg"},
+  {"id": 11, "name": "Йога на світанку", "description": "Ранкове заняття на березі озера", "price": 160, "type": "Відпочинок", "emoji": "🧘", "tone": "water", "image": "images/yoga.jpg"},
+  {"id": 12, "name": "Альтанка для компанії", "description": "Закрита альтанка на 12 осіб на цілий день", "price": 400, "type": "Відпочинок", "emoji": "🏕️", "tone": "water", "image": "images/gazebo.jpg"}
+]
